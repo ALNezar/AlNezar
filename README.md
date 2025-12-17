@@ -1,4 +1,3 @@
-<div align="center">
   <h1>(👉ﾟヮﾟ)👉 Abdalla Elshiekh</h1>
   
   
@@ -18,9 +17,11 @@
 
 ---
 
-### 🚀 What I'm Up To
+### (👉ﾟヮﾟ)👉 What I'm Up To
 
 - （￣︶￣）↗ &nbsp; **Working on:** [FishMaster: Smart aquarium monitor](https://github.com/ALNezar/FishMaster)
+  - <img width="500" height="555" alt="image" src="https://github.com/user-attachments/assets/1d684332-9f2a-486f-95cd-7659520b14a0" />
+
 - →_→ &nbsp; **Learning:** ESP32, Firmware Development, & RTOS
 - (⊙_⊙)？ &nbsp; **Ask me about:** Art, history, and strategy games
 
@@ -90,10 +91,7 @@
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alnezar&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
-</div>
+
 
 ---
 
