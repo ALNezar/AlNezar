@@ -1,14 +1,10 @@
-  <h1>(👉ﾟヮﾟ)👉 Abdalla Elshiekh</h1>
+  <h1 align="center" > Abdalla Elshiekh</h1>
   
   
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+%40+UTHM;IoT+%26+Embedded+Systems+Enthusiast;Firmware+Developer" alt="Typing SVG" />
-  </a>
-</div>
+<h2 align="center">Software Engineering Student @ UTHM 🇲🇾</h2>
   <br/>
 
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Embedded-orange?style=for-the-badge&logo=espressif&logoColor=white">
     <img src="https://img.shields.io/badge/Hardware-ESP32%20%2F%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
     <img src="https://img.shields.io/badge/Web-React%20%26%20Node-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -16,16 +12,22 @@
 </div>
 
 ---
+<div align="center">
 
 ### (👉ﾟヮﾟ)👉 What I'm Up To
 
-- （￣︶￣）↗ &nbsp; **Working on:** [FishMaster: Smart aquarium monitor](https://github.com/ALNezar/FishMaster)
-  - <img width="500" height="555" alt="image" src="https://github.com/user-attachments/assets/1d684332-9f2a-486f-95cd-7659520b14a0" />
+（￣︶￣）↗ &nbsp; **Working on:**  
+[FishMaster: Smart aquarium monitor](https://github.com/ALNezar/FishMaster)
 
-- →_→ &nbsp; **Learning:** ESP32, Firmware Development, & RTOS
-- (⊙_⊙)？ &nbsp; **Ask me about:** Art, history, and strategy games
+<img width="500" height="555" alt="image" src="https://github.com/user-attachments/assets/1d684332-9f2a-486f-95cd-7659520b14a0" />
+
+→_→ &nbsp; **Learning:** ESP32, Firmware Development, & RTOS  
+
+(⊙_⊙)？ &nbsp; **Ask me about:** Art, history, and strategy games
 
 ---
+
+</div>
 
 ### 🛠️ Languages and Tools
 
