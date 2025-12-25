@@ -1,9 +1,7 @@
 
   
   <h1 align="center" > Abdalla Elshiekh
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abdalla%20Elshiekh&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20UTHM%20🇲🇾&descAlignY=60&descAlign=50"/>
-</h1>
-  <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:8B0000&height=250&section=header&text=Abdalla%20Elshiekh&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20UTHM%20🇲🇾&descAlignY=60&descAlign=50&fontColor=FFFFFF&descColor=FFFFFF"/>  <p align="center">
     <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Embedded-orange?style=for-the-badge&logo=espressif&logoColor=white">
     <img src="https://img.shields.io/badge/Hardware-ESP32%20%2F%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
     <img src="https://img.shields.io/badge/Web-React%20%26%20Node-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -16,7 +14,11 @@
 ### (👉ﾟヮﾟ)👉 What I'm Up To
 
 （￣︶￣）↓ &nbsp; **Working on:**  
-[FishMaster: Smart Aquarium Monitor](https://github.com/ALNezar/FishMaster)
+<!-- Pinned Repositories -->
+<a href="https://github.com/alnezar/Fishmaster">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alnezar&repo=Fishmaster&theme=radical" />
+</a>
+
 
 <img width="1000" height="1000" alt="FishMaster project screenshot" src="https://github.com/user-attachments/assets/1d684332-9f2a-486f-95cd-7659520b14a0" />
 
@@ -81,6 +83,8 @@
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
+
 <!-- GitHub Stats -->
 <a href="https://github.com/alnezar">
   <img height="180" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=alnezar&show_icons=true&theme=radical&hide_border=false" />
@@ -90,11 +94,8 @@
 <a href="https://github.com/alnezar">
   <img height="180" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alnezar&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
+</div>
 
-<!-- Pinned Repositories -->
-<a href="https://github.com/alnezar/Fishmaster">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alnezar&repo=Fishmaster&theme=radical" />
-</a>
 
 
 
