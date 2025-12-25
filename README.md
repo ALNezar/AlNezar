@@ -1,9 +1,8 @@
-  <h1 align="center" > Abdalla Elshiekh</h1>
-  
-  
-<h2 align="center">Software Engineering Student @ UTHM 🇲🇾</h2>
-  <br/>
 
+  
+  <h1 align="center" > Abdalla Elshiekh
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abdalla%20Elshiekh&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20UTHM%20🇲🇾&descAlignY=60&descAlign=50"/>
+</h1>
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Embedded-orange?style=for-the-badge&logo=espressif&logoColor=white">
     <img src="https://img.shields.io/badge/Hardware-ESP32%20%2F%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
@@ -16,18 +15,17 @@
 
 ### (👉ﾟヮﾟ)👉 What I'm Up To
 
-（￣︶￣）↓  &nbsp; **Working on:**  
-[FishMaster: Smart aquarium monitor](https://github.com/ALNezar/FishMaster)
+（￣︶￣）↓ &nbsp; **Working on:**  
+[FishMaster: Smart Aquarium Monitor](https://github.com/ALNezar/FishMaster)
 
-<img width="500" height="555" alt="image" src="https://github.com/user-attachments/assets/1d684332-9f2a-486f-95cd-7659520b14a0" />
+<img width="1000" height="1000" alt="FishMaster project screenshot" src="https://github.com/user-attachments/assets/1d684332-9f2a-486f-95cd-7659520b14a0" />
 
-→_→ &nbsp; **Learning:** ESP32, Firmware Development, & RTOS  
+→_→ &nbsp; **Learning:** ESP32, Firmware Development, RTOS  
 
-(⊙_⊙)？ &nbsp; **Ask me about:** Art, history, and strategy games
-
----
+(⊙_⊙)？ &nbsp; **Ask me about:** Art, History, Strategy Games
 
 </div>
+
 
 ### 🛠️ Languages and Tools
 
@@ -83,15 +81,20 @@
 ---
 
 ### 📊 GitHub Stats
+<!-- GitHub Stats -->
+<a href="https://github.com/alnezar">
+  <img height="180" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=alnezar&show_icons=true&theme=radical&hide_border=false" />
+</a>
 
-<div align="center">
-  <a href="https://github.com/alnezar">
-  <img src="https://github-readme-stats.vercel.app/api?username=alnezar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="150" alt="Stats" />
-  </a>
-  <a href="https://github.com/alnezar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alnezar&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="150" alt="Top Langs" />
-  </a>
-</div>
+<!-- Top Languages -->
+<a href="https://github.com/alnezar">
+  <img height="180" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alnezar&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+
+<!-- Pinned Repositories -->
+<a href="https://github.com/alnezar/Fishmaster">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alnezar&repo=Fishmaster&theme=radical" />
+</a>
 
 
 
