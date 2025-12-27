@@ -1,82 +1,53 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:8B0000&height=250&section=header&text=Abdalla%20Elshiekh&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20UTHM%20🇲🇾&descAlignY=60&descAlign=50&fontColor=FFFFFF&descColor=FFFFFF"/>
+</h1>
 
-  
-  <h1 align="center" > Abdalla Elshiekh
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:8B0000&height=250&section=header&text=Abdalla%20Elshiekh&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20UTHM%20🇲🇾&descAlignY=60&descAlign=50&fontColor=FFFFFF&descColor=FFFFFF"/>  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Embedded-orange?style=for-the-badge&logo=espressif&logoColor=white">
-    <img src="https://img.shields.io/badge/Hardware-ESP32%20%2F%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-    <img src="https://img.shields.io/badge/Web-React%20%26%20Node-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  </p>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Embedded-orange?style=flat-square&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/Hardware-ESP32%20%2F%20Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Web-Spring%20Boot%20%26%20React-6DB33F?style=flat-square&logo=spring&logoColor=white">
+</p>
 
 ---
+
 <div align="center">
 
 ### (👉ﾟヮﾟ)👉 What I'm Up To
 
 （￣︶￣）↓ &nbsp; **Working on:**  
-<!-- Pinned Repositories -->
 <a href="https://github.com/alnezar/Fishmaster">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alnezar&repo=Fishmaster&theme=radical" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alnezar&repo=Fishmaster&theme=radical" width="320"/>
 </a>
 
-
-<img width="1000" height="1000" alt="FishMaster project screenshot" src="https://github.com/user-attachments/assets/1d684332-9f2a-486f-95cd-7659520b14a0" />
+<img src="https://github.com/user-attachments/assets/1d684332-9f2a-486f-95cd-7659520b14a0" alt="FishMaster project screenshot" width="400"/>
 
 →_→ &nbsp; **Learning:** ESP32, Firmware Development, RTOS  
-
 (⊙_⊙)？ &nbsp; **Ask me about:** Art, History, Strategy Games
 
 </div>
 
+---
 
 ### 🛠️ Languages and Tools
 
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C" /></a><br>C
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" /></a><br>C++
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" /></a><br>Python
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45" alt="Arduino" /></a><br>Arduino
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" /></a><br>Linux
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" /></a><br>Docker
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.qt.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="45" height="45" alt="Qt" /></a><br>Qt
-    </td>
+    <td align="center"><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/><br>C</a></td>
+    <td align="center"><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/><br>C++</a></td>
+    <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/><br>Python</a></td>
+    <td align="center"><a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"/><br>Arduino</a></td>
+    <td align="center"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/><br>Linux</a></td>
+    <td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br>Docker</a></td>
+    <td align="center"><a href="https://www.qt.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="45"/><br>Qt</a></td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React" /></a><br>React
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" /></a><br>Java
-    </td>
-    <td align="center" width="90">
-      <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring" /></a><br>Spring
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="Postgres" /></a><br>Postgres
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma" /></a><br>Figma
-    </td>
-    <td align="center" width="90">
-      <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" /></a><br>Git
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" height="45" alt="Ps" /></a><br>Ps
-    </td>
+    <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br>React</a></td>
+    <td align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/><br>Java</a></td>
+    <td align="center"><a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/><br>Spring</a></td>
+    <td align="center"><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/><br>Postgres</a></td>
+    <td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/><br>Figma</a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/><br>Git</a></td>
+    <td align="center"><a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/><br>Ps</a></td>
   </tr>
 </table>
 
@@ -84,35 +55,21 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-
-<!-- GitHub Stats -->
 <a href="https://github.com/alnezar">
-  <img height="180" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=alnezar&show_icons=true&theme=radical&hide_border=false" />
+  <img height="180" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=alnezar&show_icons=true&theme=radical" />
 </a>
-
-<!-- Top Languages -->
 <a href="https://github.com/alnezar">
   <img height="180" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alnezar&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 </div>
 
-
-
-
 ---
 
 ### 📫 Connect with me
-
 <p align="center">
-  <a href="https://linkedin.com/in/abdalla-nezar-elshiekh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abdallanezaree@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://alnezar.dev">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-  </a>
+  <a href="https://linkedin.com/in/abdalla-nezar-elshiekh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abdallanezaree@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://alnezar.dev"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 <p align="center">
