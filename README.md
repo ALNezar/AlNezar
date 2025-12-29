@@ -38,7 +38,8 @@
     <td align="center"><a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"/><br>Arduino</a></td>
     <td align="center"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/><br>Linux</a></td>
     <td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br>Docker</a></td>
-    <td align="center"><a href="https://www.qt.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="45"/><br>Qt</a></td>
+    <td align="center"><a href="https://www.qt.io/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQEqt31JeuWvWw/company-logo_200_200/company-logo_200_200/0/1720065450895/lvglgui_logo?e=2147483647&v=beta&t=zwzvTINWUBTk7VD-uvrYAxCvUuXc2G-bKJ8wht9SDGg" width="45"/><br>LVGL
+</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br>React</a></td>
@@ -46,8 +47,8 @@
     <td align="center"><a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/><br>Spring</a></td>
     <td align="center"><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/><br>Postgres</a></td>
     <td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/><br>Figma</a></td>
+    <td align="center"><a href="https://www.photoshop.com/en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="45"/><br>Photoshop</a></td>
     <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/><br>Git</a></td>
-    <td align="center"><a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/><br>Ps</a></td>
   </tr>
 </table>
 
